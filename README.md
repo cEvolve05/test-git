@@ -1,3 +1,3 @@
 # test for git internals
 
-dev change
+all change
