@@ -1,3 +1,6 @@
-# test for git internals
+# A Repo for trying Pull Request
 
-all change
+1. fork this repo
+2. commit in your fork repo
+3. create a PR to `terget` branch
+4. if you want to be declined, comment in PR
